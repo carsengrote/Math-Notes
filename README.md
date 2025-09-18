@@ -1,1 +1,1 @@
-Notes and projects done during my PhD studies at UW - Madison.
+Notes, projects, and talks during my PhD studies at UW - Madison.
